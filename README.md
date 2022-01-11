@@ -32,14 +32,14 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![desktop](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/desktop.png)
 
-![]()
+![mobile](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/mobile.jpeg)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-four-card-feature-section-master)
 
 
 ## My process
