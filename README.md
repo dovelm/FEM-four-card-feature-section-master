@@ -34,7 +34,7 @@ Users should be able to:
 
 ![desktop](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/desktop.png)
 
-![mobile](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/mobile.jpeg =250x)
+![mobile](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/mobile.jpeg =200X100)
 
 
 ### Links
