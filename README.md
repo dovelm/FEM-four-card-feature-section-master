@@ -32,14 +32,14 @@ Users should be able to:
 
 ### Screenshots
 
-![desktop](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/desktop.png)
+![desktop](https://github.com/dovelym/FEM-four-card-feature-section-master/blob/main/screenshots/desktop.png)
 
-![mobile](https://github.com/dusvimarin/FEM-four-card-feature-section-master/blob/main/screenshots/mobile.png)
+![mobile](https://github.com/dovelym/FEM-four-card-feature-section-master/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-four-card-feature-section-master)
+[My Solution](https://dovelym.github.io/FEM-four-card-feature-section-master)
 
 
 ## My process
@@ -65,5 +65,5 @@ I learned to use elements flexbox.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dusvy_m](https://github.com/dovelym)
 
